@@ -29,7 +29,19 @@ La demo utiliza una base de datos independiente de la instalación local. Los l�
 - Sesión persistente e interfaz adaptable a pantallas pequeñas.
 
 <!-- CAPTURAS_INICIO -->
-<!-- Las capturas reales se incorporan con portfolio/preparar_portfolio.ps1. -->
+
+## Capturas
+
+![Proyectos](docs/capturas/01-proyectos.png)
+
+![Pizarra de una tarea](docs/capturas/02-pizarra.png)
+
+![Reparto de responsables](docs/capturas/03-reparto.png)
+
+![Resumen del proyecto](docs/capturas/04-resumen.png)
+
+![Historial de actividad](docs/capturas/05-historial.png)
+
 <!-- CAPTURAS_FIN -->
 
 ## Tecnologías
