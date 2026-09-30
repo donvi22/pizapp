@@ -1,0 +1,43 @@
+# Entornos y archivos privados
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.production.json
+*.sqlite3
+*.sqlite3-journal
+*.sqlite3-wal
+*.sqlite3-shm
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+# Datos y paquetes de despliegue
+backend/media/
+backend/staticfiles/
+backend/webapp/
+deploy/output/
+# Flutter: conservar pubspec.lock y los archivos fuente
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+coverage/
+App/android/local.properties
+App/android/key.properties
+*.jks
+*.keystore
+App/ios/Pods/
+App/macos/Pods/
+App/ios/.symlinks/
+App/macos/.symlinks/
+App/ios/Flutter/ephemeral/
+App/macos/Flutter/ephemeral/
+App/windows/flutter/ephemeral/
+App/linux/flutter/ephemeral/
+.DS_Store

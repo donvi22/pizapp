@@ -1,0 +1,11 @@
+# Añade estas líneas al .gitignore de PizarraApp antes de subirlo a GitHub.
+**/.venv/
+**/__pycache__/
+**/*.pyc
+**/db.sqlite3
+**/.production.json
+backend/media/
+backend/staticfiles/
+backend/webapp/
+App/build/
+deploy/output/
